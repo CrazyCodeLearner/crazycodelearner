@@ -36,6 +36,16 @@
   </picture>
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-pro-stats.vercel.app/api/isocalendar?user=crazycodelearner&duration=full-year&hide_title=true&colors=FFF,FFCA85,E0ADAD,C192D6,A277FF&color.title=a277ff&color.icon=ffca85&color.text=61ffca">
+    <img
+      src="https://github-pro-stats.vercel.app/api/isocalendar?hide_title=true&user=crazycodelearner&duration=full-year"
+      alt="Contributions" />
+  </picture>
+</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=crazycodelearner&label=Views&color=orange&base=0"
     alt="crazycodelearner" />
