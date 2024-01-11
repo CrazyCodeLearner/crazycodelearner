@@ -19,9 +19,9 @@
   </picture><br>
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-stats-beta-six.vercel.app/api?username=crazycodelearner&show_icons=true&hide_border=true&bg_color=00000000&locale=en&text_bold=false&include_all_commits=true&theme=aura&custom_title=Stats&card_width=496px">
+      srcset="https://github-stats-beta-six.vercel.app/api?username=crazycodelearner&show_icons=true&hide_border=true&bg_color=00000000&locale=en&text_bold=false&theme=aura&custom_title=Stats&card_width=496px">
     <img align="top"
-      src="https://github-stats-beta-six.vercel.app/api?username=crazycodelearner&show_icons=true&hide_border=true&bg_color=00000000&locale=en&text_bold=false&include_all_commits=true&custom_title=Stats&card_width=496px"
+      src="https://github-stats-beta-six.vercel.app/api?username=crazycodelearner&show_icons=true&hide_border=true&bg_color=00000000&locale=en&text_bold=false&custom_title=Stats&card_width=496px"
       alt="Github Stats" />
   </picture>
 </div>
@@ -39,7 +39,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-pro-stats.vercel.app/api/isocalendar?user=crazycodelearner&duration=full-year&hide_title=true&colors=FFF,FFCA85,E0ADAD,C192D6,A277FF&color.title=a277ff&color.icon=ffca85&color.text=61ffca">
+      srcset="https://github-pro-stats.vercel.app/api/isocalendar?user=crazycodelearner&duration=full-year&hide_title=true&colors=00000000,FFCA85,E0ADAD,C192D6,A277FF&color.title=a277ff&color.icon=ffca85&color.text=61ffca">
     <img
       src="https://github-pro-stats.vercel.app/api/isocalendar?hide_title=true&user=crazycodelearner&duration=full-year"
       alt="Contributions" />
