@@ -39,7 +39,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-pro-stats.vercel.app/api/isocalendar?user=crazycodelearner&duration=full-year&hide_title=true&colors=00000000,FFCA85,E0ADAD,C192D6,A277FF&color.title=a277ff&color.icon=ffca85&color.text=61ffca">
+      srcset="https://github-pro-stats.vercel.app/api/isocalendar?user=crazycodelearner&duration=full-year&hide_title=true&theme=aura">
     <img
       src="https://github-pro-stats.vercel.app/api/isocalendar?hide_title=true&user=crazycodelearner&duration=full-year"
       alt="Contributions" />
