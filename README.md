@@ -1,6 +1,6 @@
 <h1 align="center"><img height="50"
-    src="https://i.giphy.com/G4OvmYxQAQyvUqhHTh.webp">, I'm <b>Bharat&nbsp;Deora<b></h1>
-<h3 align="center"><em><u>Passionate</u> Full Stack Developer from India</em></h3>
+    src="https://ik.imagekit.io/downlaod/ezgif-7-a911bfcad1_0rwcrMZDb.webp?updatedAt=1705244365091">, I'm <b>Bharat&nbsp;Deora<b></h1>
+<h3 align="center"><em>Passionate Full Stack Developer from India</em></h3>
 
 <div align="center">
   <picture>
@@ -11,10 +11,10 @@
       alt="Coding Streak" />
   </picture><br>
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-trophy-lovat.vercel.app/?username=crazycodelearner&margin-w=13&margin-h=13&column=4&no-bg=true&no-frame=true&theme=juicyfresh">
+    <source media="(prefers-color-scheme: white)"
+      srcset="https://github-profile-trophy-lovat.vercel.app/?username=crazycodelearner&margin-w=27&margin-h=21&column=2&no-bg=true&no-frame=true&rank=AAA">
     <img
-      src="https://github-profile-trophy-lovat.vercel.app/?username=crazycodelearner&margin-w=13&margin-h=13&column=4&no-bg=true&no-frame=true"
+      src="https://github-profile-trophy-lovat.vercel.app/?username=crazycodelearner&theme=juicyfresh&margin-w=27&margin-h=21&column=3&no-bg=true&no-frame=true&rank=AAA,AA,A"
       alt="Github Profile Trophies" />
   </picture><br>
   <picture>
@@ -49,5 +49,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=crazycodelearner&label=Views&color=orange&base=0"
     alt="crazycodelearner" />
-  <img height="25" src="https://i.giphy.com/10a8AOSeP6Rqfu.webp">
+  <img height="25" src="https://ik.imagekit.io/downlaod/ezgif-1-06a651a87f_Jb7TnSIgqa.webp?updatedAt=1705235987492">
 </p>
