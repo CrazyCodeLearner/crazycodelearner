@@ -1,6 +1,6 @@
 <h1 align="center"><img height="50"
     src="https://ik.imagekit.io/downlaod/ezgif-7-a911bfcad1_0rwcrMZDb.webp?updatedAt=1705244365091">, I'm <b>Bharat&nbsp;Deora<b></h1>
-<h3 align="center"><em>Passionate Full Stack Developer from India</em></h3>
+<h3 align="center"><em>Passionate Full Stack Software Engineer</em></h3>
 
 <div align="center">
   <picture>
@@ -14,7 +14,7 @@
     <source media="(prefers-color-scheme: white)"
       srcset="https://github-profile-trophy-lovat.vercel.app/?username=crazycodelearner&margin-w=27&margin-h=21&column=2&no-bg=true&no-frame=true&rank=AAA">
     <img
-      src="https://github-profile-trophy-lovat.vercel.app/?username=crazycodelearner&theme=juicyfresh&margin-w=27&margin-h=21&column=3&no-bg=true&no-frame=true&rank=AAA,AA,A"
+      src="https://github-profile-trophy-lovat.vercel.app/?username=crazycodelearner&theme=juicyfresh&margin-w=27&margin-h=21&column=3&no-bg=true&no-frame=true&rank=S,AAA,AA,A"
       alt="Github Profile Trophies" />
   </picture><br>
   <picture>
